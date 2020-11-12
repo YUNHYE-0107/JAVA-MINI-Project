@@ -11,4 +11,4 @@
 
 #* Seller 객체를 생성하여 이름,나이,직업,주소를 출력하세요. 
 
-[HTML CODE] : (file:///C:/ITSTUDY/01.JAVA/step10_api2/WebContent/problem.html)
+[CODE] : ()
